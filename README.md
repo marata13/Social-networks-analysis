@@ -1,6 +1,6 @@
 # Social-networks-analysis
 ### Computational Derivation of Centrality Measures and Edge Prediction on Stack Overflow Temporal Network
-In this project I analyzed the Stack Overflow Temporal Network , in order to <b>extract the most important users</b> by using the following centrality measures :
+In this project I analyzed the Stack Overflow Temporal Network , in order to <b><ins>extract the most important users</ins></b> by using the following centrality measures :
 <ul>
 <li>Degree Centrality</li>
 <li>In-Degree Centrality</li>
@@ -11,7 +11,7 @@ In this project I analyzed the Stack Overflow Temporal Network , in order to <b>
 <li>Katz Centrality</li>
 </ul>
 
-As well as to <b>predict new user interactions</b> using the following similarity measures : 
+As well as to <b><ins>predict new user interactions</ins></b> using the following similarity measures : 
 <br/><br/>
 <ul>
 <li>Graph Distance</li>
